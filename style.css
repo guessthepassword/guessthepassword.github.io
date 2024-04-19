@@ -1,0 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+.center{
+    text-align: center;
+    padding-top: 20%;
+}
+
+body{
+    background-color: black;
+    font-family: 'Gilroy-Medium', sans-serif;
+    color: chartreuse;
+}
+
+.submit{
+    font-family: 'Gilroy-Medium', sans-serif;
+    color: black;
+    background-color: chartreuse;
+    border: none;
+    border-radius: 5px;
+    height: 21px;
+    
+}
+
+.input{
+    background-color: black;
+    border-color: chartreuse;
+    border-radius: 5px;
+    color: chartreuse;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
